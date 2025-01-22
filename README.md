@@ -8,9 +8,9 @@ I'm a web development student exploring the world of code and excited to learn n
 - 🎯 My goal is to build meaningful projects, gain practical experience, and make money while having fun coding 🐱‍👤.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, PHP, Typescript
-- **Frameworks/Libraries:** VueJS, Laravel, Angular
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** HTML, CSS, JavaScript, PHP, Typescript, Java
+- **Frameworks/Libraries:** VueJS, Laravel, Angular, SpringBoot
+- **Tools:** Git, GitHub, VS Code, Laragon
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aures-dev&show_icons=true&theme=tokyonight)
