@@ -8,8 +8,8 @@ I'm a web development student exploring the world of code and excited to learn n
 - 🎯 My goal is to build meaningful projects, gain practical experience, and make money while having fun coding 🐱‍👤.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, PHP, Typescript, Java
-- **Frameworks/Libraries:** VueJS, Laravel, Angular, SpringBoot
+- **Languages:** HTML, CSS, JavaScript, PHP, Typescript, Java, Dart
+- **Frameworks/Libraries:** VueJS, Laravel, Angular, SpringBoot, Nuxt
 - **Tools:** Git, GitHub, VS Code, Laragon
 
 ## 📈 GitHub Stats
